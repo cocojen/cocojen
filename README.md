@@ -1,6 +1,6 @@
-### Hi there! welcome to cocojen's github 👋
+### Hi there! Welcome to cocojen's github 👋
 
-- 🔭 I’m currently working on : Samsung Software Academy For Youth(SSAFY)
+- 🔭 I’m currently working at : Samsung Software Academy For Youth(SSAFY)
 - 🌱 I’m currently learning : JAVA, SPRING BOOT, PYTHON, DJANGO
 - 📫 Instagram account : @hjennycho
 
