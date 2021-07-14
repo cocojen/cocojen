@@ -1,13 +1,32 @@
-name: my workflow                     # Workflow 이름
-on: [push]                            # Event 감지
 
-jobs:                                 # Job 설정
-  build:                              # Job ID
-    name: hello github action         # Job 이름
-    runs-on: ubuntu-18.04             # Job 가상환경 인스턴스
-    steps:                            # Steps
-      - name: checkout source code    # Step 이름
-        uses: actions/checkout@master # Uses를 통한 외부 설정 가져오기: 자신의 레포지토리 소스 받아오기
+name: Update readme
 
-      - name: echo Hello              # Step 이름
-        run: echo "Hello"             # Run을 통한 스크립트 실행: Hello 출력
+on:
+  schedule:
+    - cron: "10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - run: npm install
+
+      - name: Generate readme
+        run: node build-svg.js
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: cocojen
+          author_email: huji3156@gmail.com
+          message: "Auto updating my readme"
+          add: "*.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
