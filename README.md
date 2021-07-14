@@ -1,4 +1,3 @@
-### Hi there! Welcome to cocojen's github 👋
 
 
 [![](https://github.com/cocojen/cocojen/blob/master/chat.svg)]
