@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I love to read and share</text>    
+    <text x="15" y="27">I love to read and share things</text>    
   </g>
 
   <!-- typing 5 -->
@@ -369,7 +369,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="325" height="42" rx="18.0355" class="bubble" />
+    <rect width="350" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">You can contact me through this email</text>
   </g>
   
