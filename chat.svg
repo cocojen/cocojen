@@ -270,8 +270,8 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="140" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm cocojen</text>
+    <rect width="170" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Jenny</text>
   </g>
 
   <!-- typing 2 -->
@@ -293,17 +293,10 @@
   </g>
 
   <!-- From Columbus... -->
-  <g transform="translate(10, 5)" class="msg-1 bubble">
-    <rect width="350" height="42" rx="18.0355" />
-    <text x="15" y="27">I'm a software engineer based in Seoul</text>
-  </g>
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a software engineer based in Seoul</text>
-  </g>
-    <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="60">My focus area has been backend development with django</text>
+    <text x="15" y="27">I'm a Software engineer based in Seoul</text>
+    <text x="15" y="50">who wants to be a digital nomad</text>
   </g>
 
   <!-- typing 3 -->
@@ -327,7 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="60">but I'm also learning frontend development with Vue.js lately</text>    
+    <text x="15" y="27">My focus area has been backend development with django.</text>    
+    <text x="15" y="50">but I'm into frontend lately</text>
   </g>
 
 
@@ -352,9 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Things I'm into lately</text>    
-    <text x="15" y="27">Stock, k-pop, pilates</text>    
-
+    <text x="15" y="27">I run Python UserGoup in Korea</text>    
   </g>
 
   <!-- typing 5 -->
@@ -378,7 +370,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="325" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Recnelty</text>
+    <text x="15" y="27">Have a good one!</text>
   </g>
   
 
@@ -402,6 +394,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="250" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a xlink:href="">Have a great day!</a> </text>
+    <text x="15" y="27"><a xlink:href="https://uiandwe.github.io/">https://uiandwe.github.io</a> </text>
   </g>
 </svg>
