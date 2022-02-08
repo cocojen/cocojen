@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="150" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jenny</text>
+    <text x="15" y="27">Hi, I'm Jenny 🤓</text>
   </g>
 
   <!-- typing 2 -->
@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a Software engineer based in Seoul</text>
-    <text x="15" y="50">who wants to be a digital nomad</text>
+    <text x="15" y="27">I'm a Software engineer based in Seoul, Korea.</text>
+    <text x="15" y="50">I've been working on web development for a year/text>
   </g>
 
   <!-- typing 3 -->
@@ -320,8 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">My focus area has been backend development with django</text>    
-    <text x="15" y="50">but I'm into frontend development lately</text>
+    <text x="15" y="27">My focus area has been backend development w/ python</text>    
+    <text x="15" y="50">but I'm also into frontend development lately</text>
   </g>
 
 
@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I love to read and share things</text>    
+    <text x="15" y="27">I like to discuss and share thoughts online</text>    
   </g>
 
   <!-- typing 5 -->
@@ -370,7 +370,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="350" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">You can contact me through this email</text>
+    <text x="15" y="27">Feel free to contact me if u got any question</text>
   </g>
   
 
