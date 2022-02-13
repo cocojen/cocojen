@@ -6,9 +6,4 @@ but I'm also into frontend development lately! <br>
 I like to discuss and share thoughts online, so feel free to contact me <br>
 if you got any questions regarding my projects or publishment <br>
 jennycho.dev@gmail.com
-
-![](https://github.com/cocojen/cocojen/blob/master/chat.svg)
-
-
-
 ![](https://github.com/cocojen/cocojen/blob/output/github-contribution-grid-snake.svg)
