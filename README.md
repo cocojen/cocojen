@@ -5,6 +5,6 @@ My focus area has been backend development w/ python and django <br>
 but I'm also into frontend development lately! <br>
 I like to discuss and share thoughts online, so feel free to contact me <br>
 if you got any questions regarding my projects or publishment <br>
-jennycho.dev@gmail.com
-cocojen.tistory.com
+- jennycho.dev@gmail.com
+- cocojen.tistory.com
 ![](https://github.com/cocojen/cocojen/blob/output/github-contribution-grid-snake.svg)
